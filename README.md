@@ -17,8 +17,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/roymiets/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/roymiets/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/abhishekroy2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/abhishekroy2" height="30" width="40" /></a>
+  <a href="https://www.hackerearth.com/@rkabhishek2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@rkabhishek2000" height="30" width="40" /></a>
 <a href="https://leetcode.com/coderak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/coderak/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@rkabhishek2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@rkabhishek2000" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/abhishekroy6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/abhishekroy6" height="30" width="40" /></a>
 </p>
 
