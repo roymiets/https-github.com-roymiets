@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/roymiets](https://github.com/roymiets)
 
-- 💬 Ask me about **Java Development,Backend Development**
+- 💬 Ask me about **Java Development,Backend Development And Full Stack Development**
 
 - 📫 How to reach me **Roymiets@gmail.com**
 
